@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhiram1289@gmail.com**
 
-- ⚡ Fun fact **Why was the Docker container always invited to parties? Because it could easily NETWORK !!!**
+- 😂 **Why was the Docker container always invited to parties? Because it could easily NETWORK !!!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
