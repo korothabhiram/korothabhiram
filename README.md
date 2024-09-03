@@ -1,7 +1,7 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/028/638/673/large_2x/devops-icons-banner-devops-banner-with-icons-of-plan-code-build-test-release-deploy-operate-and-monitor-illustration-vector.jpg)
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">A passionate Cloud | DevOps | SRE Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQFsIhMFOJVs0Q/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1609097444281?e=1730332800&v=beta&t=QaXFyHhap0xkV63uRf5SLg9em0aYWMu192cUSABxwjM">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQE6cXCCFtokrA/article-cover_image-shrink_600_2000/0/1592488170562?e=2147483647&v=beta&t=tUKGMnag7qJANf99Y02_YuJD4hYBh2borkMjfZvZ7UQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korothabhiram&label=Profile%20views&color=0e75b6&style=flat" alt="korothabhiram" /> </p>
 
